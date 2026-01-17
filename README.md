@@ -23,7 +23,7 @@ Além dos fundamentos da engenharia de software,  sigo evoluindo para construir 
 </div>
 
 ---
-### Estatistica 
+### 🤖 Stats
 
 <img
   align="left"
