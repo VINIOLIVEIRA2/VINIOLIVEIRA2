@@ -7,6 +7,9 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 ---
 
 ## 🌐 Where to find me
