@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer |** 
 
-Engenheiro de Software com foco no desenvolvimento e implementação de aplicações de engenharia, Atuação na construção de sistemas de software, aplicando engenharia de requisitos, modelagem, orientação a objetos, SOLID, padrões de projeto e arquitetura de software. Experiência em desenvolvimento full stack, integração de APIs, versionamento com Git/GitHub e práticas de qualidade, testes e manutenibilidade. Conhecimentos em dados e fundamentos de Machine Learning aplicados como suporte técnico em soluções de software.
+Engenheiria de Software com foco no desenvolvimento e implementação de aplicações de engenharia, Atuação na construção de sistemas de software, aplicando engenharia de requisitos, modelagem, orientação a objetos, SOLID, padrões de projeto e arquitetura de software. Experiência em desenvolvimento full stack, integração de APIs, versionamento com Git/GitHub e práticas de qualidade, testes e manutenibilidade. Conhecimentos em dados e fundamentos de Machine Learning aplicados como suporte técnico em soluções de software.
 
 
 ## 🛠️ Tech Stack
