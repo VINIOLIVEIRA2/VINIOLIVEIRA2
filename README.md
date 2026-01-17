@@ -21,16 +21,24 @@ Além dos fundamentos da engenharia de software,  sigo evoluindo para construir 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> 
 </div>
-                 
-          
----
 
-## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://www.instagram.com/oliveira_vinicius2/">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+### Estatistica 
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true"
+  />
+</p>
+
+
+
+
+
 
 ---
 
