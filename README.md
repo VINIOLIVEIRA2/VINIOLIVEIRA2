@@ -2,13 +2,10 @@
 
 🚀 **Software Engineer |** 
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Sou Vinicius Oliveira, estudante de Engenharia de Software com foco em construção de aplicações e soluções digitais. No meu período como Supervisor Administrativo, utilizei conhecimentos de **Python**, Power BI e Excel para análises, indicadores e melhorias de processos.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Além dos fundamentos da engenharia de software,  sigo evoluindo para construir aplicações funcionais, bem estruturadas e alinhadas às boas práticas da área.
 
-
----
 
 ## 🛠️ Tech Stack
 
