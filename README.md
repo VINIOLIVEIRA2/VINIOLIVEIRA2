@@ -25,11 +25,8 @@ Além dos fundamentos da engenharia de software,  sigo evoluindo para construir 
 
 ### Estatistica 
 
-<img
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true&theme=dark"
-/>
+<img align="left" height="200"
+src="https://SEU-PROJETO.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true&theme=dark" />
 
 
 
