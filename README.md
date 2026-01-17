@@ -28,12 +28,10 @@ Além dos fundamentos da engenharia de software,  sigo evoluindo para construir 
 <img
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true&theme=dark&cache_seconds=21600"
+  src="https://github-readme-stats-alpha-ivory-75.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true&theme=dark"
 />
 
 <br clear="left"/>
-
-
 
 
 ---
