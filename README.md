@@ -2,9 +2,7 @@
 
 🚀 **Software Engineer |** 
 
-Sou Vinicius Oliveira, estudante de Engenharia de Software com foco em construção de aplicações e soluções digitais. No meu período como Supervisor Administrativo, utilizei conhecimentos de **Python**, Power BI e Excel para análises, indicadores e melhorias de processos.
-
-Além dos fundamentos da engenharia de software,  sigo evoluindo para construir aplicações funcionais, bem estruturadas e alinhadas às boas práticas da área.
+Engenheiro de Software com foco no desenvolvimento e implementação de aplicações de engenharia, Atuação na construção de sistemas de software, aplicando engenharia de requisitos, modelagem, orientação a objetos, SOLID, padrões de projeto e arquitetura de software. Experiência em desenvolvimento full stack, integração de APIs, versionamento com Git/GitHub e práticas de qualidade, testes e manutenibilidade. Conhecimentos em dados e fundamentos de Machine Learning aplicados como suporte técnico em soluções de software.
 
 
 ## 🛠️ Tech Stack
