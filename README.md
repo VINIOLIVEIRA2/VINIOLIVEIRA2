@@ -22,13 +22,19 @@ Além dos fundamentos da engenharia de software,  sigo evoluindo para construir 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /> 
 </div>
 
-
+---
 ### Estatistica 
 
 <img
   align="left"
   height="200"
-  src="https://github-readme-stats-alpha-ivory-75.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true&theme=dark"
+  src="https://github-readme-stats-alpha-ivory-75.vercel.app/api?username=VINIOLIVEIRA2&show_icons=true&theme=dark&cache_seconds=21600"
+/>
+
+<img
+  align="left"
+  height="200"
+  src="https://github-readme-stats-alpha-ivory-75.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=dark&cache_seconds=21600"
 />
 
 <br clear="left"/>
