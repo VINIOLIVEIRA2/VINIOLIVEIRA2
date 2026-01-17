@@ -7,10 +7,11 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
-<div style=display: inline_block"><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>                   
+<div style="display:flex; gap:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+</div>
+                 
           
 ---
 
